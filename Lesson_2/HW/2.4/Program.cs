@@ -16,7 +16,7 @@ else
 {
     txtResult = $" , это рабочий день ";
 }
-
+dd.
 System.Console.WriteLine();
 System.Console.WriteLine($"{day_num} - й день недели - это {Days[day_num - 1]}{txtResult}");
 System.Console.WriteLine();
